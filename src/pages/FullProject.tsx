@@ -58,7 +58,12 @@ export const FullProject: React.FC = () => {
                 Описание проекта
               </p>
               <div className="py-8">
-                <pre>{project?.description}</pre>
+                {/* {id && +id === 3 ? (
+                  <div>{project?.description}</div>
+                ) : (
+                  <div>{project?.description}</div>
+                  )} */}
+                <div>{project?.description}</div>
                 <br />
                 <br />
                 <p>В проекте имеется:</p>
