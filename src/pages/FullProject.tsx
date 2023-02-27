@@ -53,8 +53,8 @@ export const FullProject: React.FC = () => {
                 )}
               </div>
             </div>
-            <div className="text-left py-8 text-base">
-              <p className="text-4xl font-bold inline border-b-4 border-pink-600">
+            <div className="text-left py-8 sm:text-base text-sm">
+              <p className="text-3xl lg:text-4xl font-bold inline border-b-4 border-pink-600">
                 Описание проекта
               </p>
               <div className="py-8">
