@@ -66,14 +66,14 @@ export const Navbar: React.FC = () => {
               Phone <FaPhone size={30} />
             </a>
           </li> */}
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500">
+          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://t.me"
             >
               Telegram <FaTelegram size={30} />
             </a>
-          </li>
+          </li> */}
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-red-400">
             <a
               className="flex justify-between items-center w-full text-gray-300"
